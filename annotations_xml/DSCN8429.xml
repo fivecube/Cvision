@@ -1,0 +1,22 @@
+<annotaion>
+  <folder>images/</folder>
+  <filename>DSCN8429.JPG</filename>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tear</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1045</xmin>
+      <ymin>1283</ymin>
+      <xmax>1195</xmax>
+      <ymax>1361</ymax>
+    </bndbox>
+  </object>
+</annotaion>

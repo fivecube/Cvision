@@ -1,0 +1,34 @@
+<annotaion>
+  <folder>images/</folder>
+  <filename>Picture13256.JPG</filename>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Large_tear_or_damage</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>155</ymin>
+      <xmax>555</xmax>
+      <ymax>400</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dislocation</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>564</xmin>
+      <ymin>289</ymin>
+      <xmax>633</xmax>
+      <ymax>366</ymax>
+    </bndbox>
+  </object>
+</annotaion>

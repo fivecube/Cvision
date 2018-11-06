@@ -1,0 +1,22 @@
+<annotaion>
+  <folder>images/</folder>
+  <filename>DSCN7619.JPG</filename>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Large_dent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>228</xmin>
+      <ymin>521</ymin>
+      <xmax>601</xmax>
+      <ymax>1249</ymax>
+    </bndbox>
+  </object>
+</annotaion>
