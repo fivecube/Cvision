@@ -1,0 +1,34 @@
+<annotaion>
+  <folder>images/</folder>
+  <filename>Picture 4303.jpg</filename>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Scratch_or_spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>256</xmin>
+      <ymin>202</ymin>
+      <xmax>1150</xmax>
+      <ymax>533</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dislocation</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>921</xmin>
+      <ymin>318</ymin>
+      <xmax>1478</xmax>
+      <ymax>853</ymax>
+    </bndbox>
+  </object>
+</annotaion>

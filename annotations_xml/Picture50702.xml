@@ -1,0 +1,34 @@
+<annotaion>
+  <folder>images/</folder>
+  <filename>Picture50702.JPG</filename>
+  <size>
+    <width>800</width>
+    <height>600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Tear</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>175</xmin>
+      <ymin>199</ymin>
+      <xmax>359</xmax>
+      <ymax>314</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>277</xmin>
+      <ymin>39</ymin>
+      <xmax>390</xmax>
+      <ymax>184</ymax>
+    </bndbox>
+  </object>
+</annotaion>

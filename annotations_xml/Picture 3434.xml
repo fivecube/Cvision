@@ -1,0 +1,46 @@
+<annotaion>
+  <folder>images/</folder>
+  <filename>Picture 3434.jpg</filename>
+  <size>
+    <width>2048</width>
+    <height>1536</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Scratch_or_spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1511</xmin>
+      <ymin>484</ymin>
+      <xmax>1832</xmax>
+      <ymax>973</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Scratch_or_spot</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1148</xmin>
+      <ymin>890</ymin>
+      <xmax>1619</xmax>
+      <ymax>1239</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Dent</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>798</xmin>
+      <ymin>870</ymin>
+      <xmax>1138</xmax>
+      <ymax>1249</ymax>
+    </bndbox>
+  </object>
+</annotaion>
